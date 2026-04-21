@@ -1,0 +1,24 @@
+{
+  "nome": "João Silva",
+  "transporte": {
+    "carro_gasolina": 300,
+    "aviao_nacional": 2000
+  },
+  "energia": {
+    "eletricidade_kwh": 250,
+    "gas_m3": 5
+  },
+  "alimentacao": {
+    "carne_bovina": 4,
+    "frango": 3,
+    "ovos": 1.5,
+    "laticinios": 5,
+    "vegetais": 3,
+    "frutas": 2
+  },
+  "residuos": {
+    "lixo_total_kg": 20,
+    "percentual_reciclagem": 30
+  },
+  "arvores": 10
+}
